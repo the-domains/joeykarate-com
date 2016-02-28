@@ -1,0 +1,28 @@
+name: JoeyKarate.com
+favicon: null
+layout_spectrum: 0.9664943793322891
+typography_spectrum: 0.7802095611114055
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8118798867799342
+  lightness: 0.598265249049291
+  saturation: 0.07315572653897107
+  rhythmicContrast: 0.8483713457826525
+purpose: []
